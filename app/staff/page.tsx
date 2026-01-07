@@ -191,7 +191,7 @@ export default function Staff() {
             Want to Join Our Team?
           </h2>
           <p className="text-gray-400 mb-8">
-            We're always looking for talented individuals to join our growing team. If you're passionate about technology and innovation, we'd love to hear from you!
+            We&apos;re always looking for talented individuals to join our growing team. If you&apos;re passionate about technology and innovation, we&apos;d love to hear from you!
           </p>
           <button className="px-8 py-4 gradient-purple text-white font-semibold rounded-lg shadow-lg hover:shadow-purple-500/50 transition-all duration-300 transform hover:scale-105">
             View Open Positions

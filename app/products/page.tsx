@@ -179,7 +179,7 @@ export default function Products() {
             Have an Idea for a New Product?
           </h2>
           <p className="text-gray-400 mb-8">
-            We're always open to collaboration and new ideas. Get in touch with our team!
+            We&apos;re always open to collaboration and new ideas. Get in touch with our team!
           </p>
           <Link
             href="/staff"

@@ -33,7 +33,7 @@ export default function About() {
               <h2 className="text-3xl font-bold text-white">Our Mission</h2>
             </div>
             <p className="text-gray-300 text-lg leading-relaxed">
-              At Lynera, our mission is to empower developers and businesses with cutting-edge technology solutions that drive innovation and efficiency. We believe in creating tools that not only solve problems but inspire creativity and push the boundaries of what's possible in software development.
+              At Lynera, our mission is to empower developers and businesses with cutting-edge technology solutions that drive innovation and efficiency. We believe in creating tools that not only solve problems but inspire creativity and push the boundaries of what&apos;s possible in software development.
             </p>
           </div>
         </div>
@@ -53,7 +53,7 @@ export default function About() {
               <h2 className="text-3xl font-bold text-white">Our Vision</h2>
             </div>
             <p className="text-gray-300 text-lg leading-relaxed">
-              We envision a world where technology seamlessly integrates with human creativity, enabling everyone to build, innovate, and transform their ideas into reality. Lynera aims to be at the forefront of this transformation, creating a ecosystem of products that work together to make development faster, smarter, and more accessible.
+              We envision a world where technology seamlessly integrates with human creativity, enabling everyone to build, innovate, and transform their ideas into reality. Lynera aims to be at the forefront of this transformation, creating an ecosystem of products that work together to make development faster, smarter, and more accessible.
             </p>
           </div>
         </div>
@@ -178,7 +178,7 @@ export default function About() {
             Join Us on Our Journey
           </h2>
           <p className="text-gray-400 mb-8">
-            Whether you're a developer, partner, or enthusiast, we'd love to connect with you
+            Whether you&apos;re a developer, partner, or enthusiast, we&apos;d love to connect with you
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
