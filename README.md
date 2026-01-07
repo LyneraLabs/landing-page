@@ -55,7 +55,7 @@ npm run dev
 Replace the placeholder logo with your own:
 
 1. Add your logo file to the `/public` directory
-2. Name it `logo.png` (or update references in the code)
+2. Name it `logo.svg` or `logo.png` (update references in the code if using .png)
 3. Recommended size: 200x200px or larger
 
 The logo is used in:
@@ -219,7 +219,7 @@ landing-page/
 ├── components/
 │   └── Navigation.tsx        # Navigation bar component
 ├── public/
-│   ├── logo.png              # Company logo (replace this!)
+│   ├── logo.svg              # Company logo (replace this!)
 │   └── favicon.ico           # Site favicon
 ├── package.json              # Dependencies
 ├── tsconfig.json             # TypeScript config
@@ -281,7 +281,7 @@ npm run build
 ```
 
 ### Image not loading
-- Ensure `logo.png` is in the `/public` directory
+- Ensure `logo.svg` is in the `/public` directory
 - Check the file name matches exactly (case-sensitive)
 
 ## 📄 License

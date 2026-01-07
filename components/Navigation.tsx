@@ -20,7 +20,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
             <Image 
-              src="/logo.png" 
+              src="/logo.svg" 
               alt="Lynera Logo" 
               width={40} 
               height={40}
