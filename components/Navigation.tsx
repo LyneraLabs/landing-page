@@ -21,11 +21,18 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 rounded-lg gradient-purple flex items-center justify-center">
-              <span className="text-white font-bold text-xl">L</span>
+            <div className="w-10 h-10 relative">
+              <Image
+                src="/resources/assets/logo.png"
+                alt="Lynera Logo"
+                fill
+                className="object-contain rounded-lg"
+                priority
+              />
             </div>
-            <span className="text-xl font-bold text-white">Lynera</span>
-          </Link>
+          <span className="text-xl font-bold text-white">Lynera</span>
+        </Link>
+
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-8">
