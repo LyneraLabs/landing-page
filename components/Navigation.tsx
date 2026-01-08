@@ -22,15 +22,14 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 relative">
-              <Image
-                src="/resources/assets/logo.png"
-                alt="Lynera Logo"
-                fill
-                className="object-contain rounded-lg"
-                priority
-              />
-            </div>
+            <Image
+              src="/resources/assets/logo.png"
+              alt="Lynera Logo"
+              width={40}
+              height={40}
+              className="object-contain rounded-lg"
+              priority
+            />
           <span className="text-xl font-bold text-white">Lynera</span>
         </Link>
 
